@@ -113,7 +113,7 @@ public class Seller implements Serializable {
                 + name
                 + ", Email: "
                 + email
-                + "Birth date: "
+                + ", Birth date: "
                 + birthDate
                 + ", Base salary: $ "
                 + baseSalary
