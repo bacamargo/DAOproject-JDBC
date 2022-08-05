@@ -13,5 +13,9 @@
             "database": "course-jdbc",
             "username": "root"
         }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\java-libs\\jdbc-connectors\\mysql-connector-java-8.0.30.jar"
     ]
 }
